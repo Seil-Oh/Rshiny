@@ -1,0 +1,47 @@
+,TICKER,TICKER_NAME,UNDER_IDX,FN_IDX,ABBRE,CLASS
+1,A069500,KODEX 200,코스피 200,코스피 200,KODEX 200,국내_주식_대표지수
+2,A091170,KODEX 은행,KRX 은행,KRX 은행,은행,국내_주식_섹터
+3,A099140,KODEX China H,Hang Seng China H,항셍 H,항셍  H,해외_주식
+4,A102780,KODEX 삼성그룹,삼성그룹,삼성그룹,삼성그룹,국내_주식_테마
+5,A104520,KOSEF 블루칩,MKF 블루칩,블루칩,블루칩,국내_주식_테마
+6,A105780,KBSTAR 5대그룹주,MKF 5대그룹주,5대그룹주,5대그룹,국내_주식_테마
+7,A132030,KODEX 골드선물(H),S&P GSCI Gold Index(TR),S&P_GSCI_Gold_TR,골드,해외_상품
+8,A139260,TIGER 200 IT,코스피 200 정보기술,코스피 200 정보 기술,IT,국내_주식_섹터
+9,A139280,TIGER 경기방어,코스피 200 경기방어소비재,코스피 200 경기방어소비재,경기방어,국내_주식_섹터
+10,A139290,TIGER 200 경기소비재,코스피 200 경기소비재,코스피 200 경기 소비재,경기소비재,국내_주식_섹터
+11,A140570,KBSTAR 수출주,MKF 수출주 지수,수출주,수출주,국내_주식_테마
+12,A140580,KBSTAR 우량업종,MKF 우량업종대표주 지수,우량업종대표주,우량업종,국내_주식_섹터
+13,A143460,KINDEX 밸류대형,FnGuide-RAFI 코리아 대형 지수,FnGuide-RAFI Korea Large Value,밸류대형,국내_주식_전략
+14,A143860,TIGER 헬스케어,KRX 헬스케어,KRX 헬스케어,헬스케어,국내_주식_섹터
+15,A148020,KBSTAR 200,코스피 200,코스피 200,KBSTAR 200,국내_주식_대표지수
+16,A150460,TIGER 중국소비테마,FnGuide 중국내수테마 지수,중국내수테마,중국소비테마,국내_주식_테마
+17,A161510,ARIRANG 고배당주,FnGuide 배당주 지수,고배당주,고배당주,국내_주식_전략
+18,A174350,TIGER 로우볼,FnGuide Low Vol 지수,Low Vol,로우볼,국내_주식_전략
+19,A174360,KBSTAR 중국본토대형주CSI100,CSI 100,CSI 100,CSI100,해외_주식
+20,A183700,KBSTAR 채권혼합,주식국채혼합(채권형)지수,주식국채혼합(채권형)지수,KB 채권혼합,국내_혼합
+21,A183710,KBSTAR 주식혼합,주식국채혼합(주식형)지수,주식국채혼합(주식형)지수,KB 주식혼합,국내_혼합
+22,A189400,ARIRANG 글로벌MSCI(합성 H),MSCI ACWI Index,ACWI,글로벌MSCI,해외_주식
+23,A195920,TIGER 일본TOPIX(합성 H),TOPIX,TOPIX 1부,TOPIX,해외_주식
+24,A195930,TIGER 유로스탁스50(합성 H),EURO STOXX 50 Index,유로스톡스50,유로스탁스50,해외_주식
+25,A195970,ARIRANG 선진국MSCI(합성 H),MSCI EAFE Index,EAFE,선진국MSCI,해외_주식
+26,A195980,ARIRANG 신흥국MSCI(합성 H),MSCI EM Index,EM (EMERGING MARKETS),신흥국MSCI,해외_주식
+27,A211900,KODEX 배당성장,코스피 배당성장 50,코스피 배당성장 50,배당성장,국내_주식_전략
+28,A222200,ARIRANG 스마트베타 Quality,WISE 스마트베타 QUALITY INDEX,WISE 스마트베타 Quality 지수,Quality,국내_주식_전략
+29,A226490,KODEX 코스피,코스피,코스피,KODEX 코스피,국내_주식_대표지수
+30,A234310,KBSTAR V&S셀렉트밸류,FnGuide 셀렉트 밸류 지수,FnGuide 셀렉트밸류 인덱스,셀렉트밸류,국내_주식_전략
+31,A237370,KODEX 배당성장채권혼합,배당성장채권혼합지수,배당성장채권혼합지수,배당성장채권혼합,국내_혼합
+32,A237440,TIGER 경기방어채권혼합,경기방어소비재 채권혼합 지수,,경기방어채권혼합,국내_혼합
+33,A241390,KBSTAR V&S셀렉트밸류채권혼합,FnGuide 셀렉트벨류 채권혼합지수,FnGuide 셀렉트밸류 채권혼합 지수,셀렉트밸류채권혼합,국내_혼합
+34,A251600,ARIRANG 고배당주채권혼합,FnGuide 고배당 채권혼합 지수,FnGuide 고배당 채권혼합 지수,고배당주채권혼합,국내_혼합
+35,A253290,KBSTAR 헬스케어채권혼합,FnGuide 헬스케어 채권혼합 지수,FnGuide 헬스케어 채권혼합 지수,헬스케어채권혼합,국내_혼합
+36,A256440,KINDEX 인도네시아MSCI(합성),MSCI Indonesia Index,INDONESIA,인도네시아MSCI,해외_주식
+37,A269420,KODEX S&P글로벌인프라(합성),S&P Global Infrastructure Index,S&P Global Infrastructure Index,S&P글로벌인프라,해외_주식
+38,A270800,KBSTAR KQ고배당,FnGuide KQ고배당포커스 지수,FnGuide KQ고배당포커스 지수,KQ고배당,국내_주식_전략
+39,A270810,KBSTAR 코스닥150,코스닥 150,코스닥 150,코스닥150,국내_주식_대표지수
+40,A280920,ARIRANG 주도업종,FnGuide 주도업종 지수,FnGuide 주도업종 지수,주도업종,국내_주식_섹터
+41,A281990,KBSTAR 중소형고배당,FnGuide 중소형고배당포커스 지수,FnGuide 중소형 고배당포커스 지수,중소형고배당,국내_주식_전략
+42,A138230,KOSEF 미국달러선물,미국달러선물지수,미국달러선물지수,미국달러선물,통화
+43,A292050,KBSTAR KRX300,KRX 300,KRX 300,KRX300,국내_주식_대표지수
+44,A290080,KBSTAR 200고배당커버드콜ATM,코스피 200 고배당커버드콜 ATM 지수(시장가격지수),코스피 200 고배당 커버드콜 ATM,고배당커버드콜,국내_주식
+45,A176950,KODEX 국채선물10년인버스,10년국채선물지수,10년국채선물 인버스지수,국채10년인버스,국내_채권
+46,A139220,TIGER 200 건설,코스피 200 건설,코스피 200 건설,건설,국내_주식_섹터
