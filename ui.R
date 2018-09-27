@@ -30,15 +30,7 @@ library(ggpmisc)
 # Models
 library(PerformanceAnalytics)
 
-#-----------------------------------------------------------------
-# WD & Shiny Option
-#-----------------------------------------------------------------
-
-main.path <- getwd()
-setwd(main.path)
 options(shiny.maxRequestSize = 100*1024^2) 
-
-source(paste0(main.path, "/global.R"))
 
 #-----------------------------------------------------------------
 # UI

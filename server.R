@@ -36,7 +36,6 @@ library(PerformanceAnalytics)
 
 main.path <- getwd()
 setwd(main.path)
-options(shiny.maxRequestSize = 100*1024^2) 
 source("global.R")
 
 #-----------------------------------------------------------------
