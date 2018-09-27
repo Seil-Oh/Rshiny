@@ -361,8 +361,8 @@ server <- function(input, output, session) {
                          breaks = scales::pretty_breaks(n = 5)) +
       geom_hline(yintercept = 0, size = 0.5) +
       geom_vline(xintercept = 0, size = 0.5) +
-      scale_fill_tableau("tableau20") +
-      scale_colour_tableau("tableau20")
+      scale_fill_tableau("Tableau 20") +
+      scale_colour_tableau("Tableau 20")
     
   })
   
@@ -448,8 +448,8 @@ server <- function(input, output, session) {
                          breaks = scales::pretty_breaks(n = 10)) +
       geom_hline(yintercept = 0, size = 0.5) +
       geom_vline(xintercept = 0, size = 0.5) +
-      scale_fill_tableau(name = "") +
-      scale_colour_tableau()
+      scale_fill_tableau("Tableau 20") +
+      scale_colour_tableau("Tableau 20")
     
   })
   
@@ -642,8 +642,8 @@ server <- function(input, output, session) {
                          breaks = scales::pretty_breaks(n = 10)) +
       geom_hline(yintercept = 0, size = 0.5) +
       geom_vline(xintercept = 0, size = 0.5) +
-      scale_fill_tableau(name = "") +
-      scale_colour_tableau()
+      scale_fill_tableau("Tableau 20") +
+      scale_colour_tableau("Tableau 20")
     
     return(opt.plt.res)
     
@@ -735,8 +735,8 @@ server <- function(input, output, session) {
       theme(legend.position = "top", 
             legend.title    = element_blank()) +
       theme_hc() +
-      scale_fill_tableau("tableau20") +
-      scale_colour_tableau() +
+      scale_fill_tableau("Tableau 20") +
+      scale_colour_tableau("Tableau 20") +
       labs(title = "Weights on the Efficient Frontier")
     
     return(weight.res)
@@ -807,8 +807,8 @@ server <- function(input, output, session) {
                        nudge_y = .5) +
       coord_polar(theta = 'y') +
       xlim(c(-0.5, 2)) +
-      scale_fill_tableau("tableau20") +
-      scale_colour_tableau() +
+      scale_fill_tableau("Tableau 20") +
+      scale_colour_tableau("Tableau 20") +
       theme(axis.title.x = element_blank(),
             axis.text.x  = element_blank(),
             axis.ticks.x = element_blank(),
