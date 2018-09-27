@@ -34,7 +34,7 @@ library(PerformanceAnalytics)
 # WD & Shiny Option
 #-----------------------------------------------------------------
 
-setwd("D:/GoogleDrive/NPS/Rshiny/")
+# setwd("D:/GoogleDrive/NPS/Rshiny/")
 options(shiny.maxRequestSize = 100*1024^2) 
 source("global.R")
 
