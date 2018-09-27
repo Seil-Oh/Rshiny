@@ -1,4 +1,41 @@
 
+#-----------------------------------------------------------------
+# Library
+#-----------------------------------------------------------------
+# Shiny
+library(shiny)
+library(shinythemes)
+library(DT)
+
+# Data manipulation
+library(tidyr)
+library(dplyr)
+library(openxlsx)
+library(readr)
+library(tidyquant)
+library(lubridate)
+
+# Data visualization
+library(corrr)
+library(corrplot)
+library(RColorBrewer)
+library(cowplot)
+library(ggthemes)
+library(gridExtra)
+library(ggrepel)
+library(ellipse)
+library(scales)
+library(ggpmisc)
+
+# Models
+library(PerformanceAnalytics)
+
+options(shiny.maxRequestSize = 100*1024^2) 
+
+#-----------------------------------------------------------------
+# WD & Shiny Option
+#-----------------------------------------------------------------
+
 main.path <- getwd()
 git.data.path <- paste0(main.path, "/data/")
 setwd(git.data.path)

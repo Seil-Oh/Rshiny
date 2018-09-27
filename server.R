@@ -1,44 +1,5 @@
 
 #-----------------------------------------------------------------
-# Library
-#-----------------------------------------------------------------
-# Shiny
-library(shiny)
-library(shinythemes)
-library(DT)
-
-# Data manipulation
-library(tidyr)
-library(dplyr)
-library(openxlsx)
-library(readr)
-library(tidyquant)
-library(lubridate)
-
-# Data visualization
-library(corrr)
-library(corrplot)
-library(RColorBrewer)
-library(cowplot)
-library(ggthemes)
-library(gridExtra)
-library(ggrepel)
-library(ellipse)
-library(scales)
-library(ggpmisc)
-
-# Models
-library(PerformanceAnalytics)
-
-#-----------------------------------------------------------------
-# WD & Shiny Option
-#-----------------------------------------------------------------
-
-main.path <- getwd()
-setwd(main.path)
-source("global.R")
-
-#-----------------------------------------------------------------
 # Server
 #-----------------------------------------------------------------
 server <- function(input, output, session) {
